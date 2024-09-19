@@ -6,7 +6,7 @@ const EmailTemplate = () => (
   <div className="Fixed w-screen h-screen top-0 left-0  ">
     <div className="">
  
-        <title>Web Developer Friend</title>
+        <title>Web Developer</title>
         <style>{`
           @import url('https://fonts.googleapis.com/css2?family=Times+New+Roman&display=swap');
         `}</style>
